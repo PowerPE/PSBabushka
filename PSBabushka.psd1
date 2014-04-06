@@ -62,7 +62,7 @@ Description = 'A configuration management framework built in PowerShell to help 
 
 # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
 
-NestedModules = @('Functions\Invoke-PSBabushka.psm1', 'Functions\Invoke-PSBabushkaDep.psm1', 'Functions\New-PSBabushkaDep.psm1', 'Functions\Find-PSBabushkaDep.psm1')
+NestedModules = @('Functions\Invoke-PSBabushka.psm1', 'Functions\Invoke-PSBabushkaDep.psm1', 'Functions\New-PSBabushkaDep.psm1')
 
 
 
